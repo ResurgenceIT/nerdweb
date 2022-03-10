@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/app-nerds/nerdweb/v2"
+	"github.com/ResurgenceIT/nerdweb/v2"
 	"github.com/sirupsen/logrus"
 )
 

@@ -3,7 +3,7 @@ package nerdweb_test
 import (
 	"testing"
 
-	"github.com/app-nerds/nerdweb/v2"
+	"github.com/ResurgenceIT/nerdweb/v2"
 )
 
 func TestAdjustPage(t *testing.T) {

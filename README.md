@@ -4,7 +4,7 @@ A small set of utility functions for writing Go HTTP applications. Most of these
 ## Usage
 
 ```
-go get github.com/app-nerds/nerdweb/v2
+go get github.com/ResurgenceIT/nerdweb/v2
 ```
 
 ## HTTP Servers
@@ -38,7 +38,7 @@ import (
   "net/http"
   "time"
 
-  "github.com/app-nerds/nerdweb/v2"
+  "github.com/ResurgenceIT/nerdweb/v2"
   "github.com/sirupsen/logrus"
 )
 
@@ -97,7 +97,7 @@ import (
   "net/http"
   "time"
 
-  "github.com/app-nerds/nerdweb/v2"
+  "github.com/ResurgenceIT/nerdweb/v2"
   "github.com/sirupsen/logrus"
 )
 

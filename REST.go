@@ -5,7 +5,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/app-nerds/nerdweb/v2/middlewares"
+	"github.com/ResurgenceIT/nerdweb/v2/middlewares"
 	"github.com/gorilla/mux"
 )
 
