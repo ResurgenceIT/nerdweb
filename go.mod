@@ -1,4 +1,4 @@
-module github.com/app-nerds/nerdweb/v2
+module github.com/ResurgenceIT/nerdweb/v2
 
 go 1.16
 
